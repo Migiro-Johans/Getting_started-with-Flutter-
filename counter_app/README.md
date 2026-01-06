@@ -20,6 +20,28 @@ This counter application introduces you to:
 ✅ **Reset Functionality** - Reset the counter back to 0
 ✅ **Modern UI** - Clean, intuitive Material Design interface
 
+## Screenshots
+
+### App Initial State
+The counter app starts at 0 with all controls ready to use.
+
+![Counter App - Initial State](./screenshots/counter_initial.png)
+
+### Increment Example
+Clicking the green "Increase" button increments the counter.
+
+![Counter App - After Increment](./screenshots/counter_increment.png)
+
+### Negative Count Example
+The counter can go negative when you decrement below zero.
+
+![Counter App - Negative Count](./screenshots/counter_negative.png)
+
+### Reset to Zero
+Click the orange "Reset" button to return to 0.
+
+![Counter App - Reset State](./screenshots/counter_reset.png)
+
 ## Project Structure
 
 ```
